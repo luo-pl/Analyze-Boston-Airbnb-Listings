@@ -13,12 +13,12 @@ TABLE OF CONTENT
 ---------------------
 
  * [Installation](#installation)
- * [Project Motivation](#project motivation)
- * [File Description](#file description)
+ * [Project Motivation](#motivation)
+ * [File Descriptions](#files)
  * [Results](#results)
- * [Licensing, Authors, Acknowledgements](# licensing, authors, acknowledgements)
+ * [Other Acknowledgements](#acknowledgements)
 
-Installation
+Installation <a name="installation"></a>
 ------------
 The following libraries are needed for this project:
 * Anaconda
@@ -29,18 +29,18 @@ The following libraries are needed for this project:
 * Sklearn
 * WordCloud
 
-Project Motivation
+Project Motivation <a name="motivation"></a>
 ------------
 Data science not only helps make better business decisions, but also brings interesting lessons about many aspects of life. Traveling is one of the essential leisure activities that requires us a lot of planning effort. In order to reduce the stress and anxiety involved in the process of designing a perfect travel experience, this project wants to offer findings and suggestions for your next Airbnb stay in Boston.
 
-File Description
+File Descriptions <a name="files"></a>
 ------------
 * The original listings.csv and reviews.csv datasets are included. You can also download my notebook Boston Airbnb.ipynb to review the actual codes. Any feedback is appreciated.
 
-Results
+Results <a name="results"></a>
 ------------
 * Results of each question are clearly stated with a clear visual, table, or statistic included. Please refer to my Medium article [Top 3 Analytical Questions for a Better Airbnb Stay in Boston]()
 
-Other Acknowledgements
+Other Acknowledgements <a name="acknowledgements"></a>
 ------------
 * Credits to [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
