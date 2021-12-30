@@ -14,10 +14,9 @@ TABLE OF CONTENT
 
  * [Installation](#installation)
  * [Project Motivation](#project motivation)
- * File Descriptions
- * Model Recommedation
- * Results
- * Licensing, Authors, Acknowledgements
+ * [File Description](#file description)
+ * [Results](#results)
+ * [Licensing, Authors, Acknowledgements](# licensing, authors, acknowledgements)
 
 Installation
 ------------
