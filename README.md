@@ -38,11 +38,11 @@ Data science not only helps make better business decisions, but also brings inte
 
 File Descriptions <a name="files"></a>
 ------------
-* The original datasets are available here for your quick download. You can also download my notebook Boston Airbnb.ipynb to review the actual codes. The notebooks is exploratory in searching through the data pertaining to the questions mentioned in the introduction. Markdown cells were used to assist in walking through the thought process for individual steps.
+* The original datasets are available here for your quick download. You can also get access to my notebook Boston Airbnb.ipynb to review the actual code. The notebooks is exploratory in searching through the data pertaining to the questions mentioned in the introduction. Markdown cells were used to assist in walking through the thought process for individual steps.
 
 Results <a name="results"></a>
 ------------
-* Results of each question are clearly stated with a clear visual, table, or statistic included. Please refer to my Medium article [Top 3 Analytical Questions for a Better Airbnb Stay in Boston]()
+* The main findings of the code can be found at the post available [here]()
 
 Other Acknowledgements <a name="acknowledgements"></a>
 ------------
