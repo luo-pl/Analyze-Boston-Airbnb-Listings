@@ -12,8 +12,8 @@ This project aims to analyze the data from Boston Airbnb dataset, available in t
 TABLE OF CONTENT
 ---------------------
 
- * Installation
- * Project Motivation
+ * [Installation](#installation)
+ * [Project Motivation](#project motivation)
  * File Descriptions
  * Model Recommedation
  * Results
