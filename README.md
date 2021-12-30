@@ -38,7 +38,7 @@ Data science not only helps make better business decisions, but also brings inte
 
 File Descriptions <a name="files"></a>
 ------------
-* The original listings.csv and reviews.csv datasets are included. You can also download my notebook Boston Airbnb.ipynb to review the actual codes. Any feedback is appreciated.
+* The original datasets are available here for your quick download. You can also download my notebook Boston Airbnb.ipynb to review the actual codes. The notebooks is exploratory in searching through the data pertaining to the questions mentioned in the introduction. Markdown cells were used to assist in walking through the thought process for individual steps.
 
 Results <a name="results"></a>
 ------------
