@@ -1,4 +1,7 @@
 # Analyze Boston Airbnb listings
+
+![Alt Text](https://worldedu.vn/wp-content/uploads/2019/05/stations_boston.jpg)
+
 Introduction
 ------------
 This GitHub repository has the code related to a Medium article that you can find [here]().
