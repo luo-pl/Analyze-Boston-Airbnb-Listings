@@ -4,13 +4,14 @@
 
 Introduction
 ------------
-This GitHub repository has the code related to a Medium article that you can find [here]().
+This GitHub repository has the code related to a Medium article that you can find [here](https://medium.com/@phoilam/top-3-analytical-questions-on-boston-airbnb-listings-3e81ec5b5720).
 
 This project aims to analyze the data from Boston Airbnb dataset, available in this [link](http://insideairbnb.com/get-the-data.html), and answer the following questions:
 
-* Which are the most expensive neighbourhoods in Boston?
-* Is it possible to create clusters of the Boston Airbnb’s?
-* What are the factors that influence the price of Boston Airbnb?
+* What’s it like living in a Boston neighborhood?
+*	Overall, how do people rate Boston Airbnb’s (negative, neutral, or positive)? 
+*	What are the factors that influence price?
+
 
 TABLE OF CONTENT
 ---------------------
@@ -42,7 +43,7 @@ File Descriptions <a name="files"></a>
 
 Results <a name="results"></a>
 ------------
-* The main findings of the code can be found at the post available [here]()
+* The main findings of the code can be found at the post available [here](https://medium.com/@phoilam/top-3-analytical-questions-on-boston-airbnb-listings-3e81ec5b5720)
 
 Other Acknowledgements <a name="acknowledgements"></a>
 ------------
