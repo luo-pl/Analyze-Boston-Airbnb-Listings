@@ -43,8 +43,8 @@ The original datasets are available here for your quick download. You can also g
 
 Results <a name="results"></a>
 ------------
-* The main findings of the code can be found at the post available [here](https://medium.com/@phoilam/top-3-analytical-questions-on-boston-airbnb-listings-3e81ec5b5720)
+The main findings of the code can be found at the post available [here](https://medium.com/@phoilam/top-3-analytical-questions-on-boston-airbnb-listings-3e81ec5b5720)
 
 Other Acknowledgements <a name="acknowledgements"></a>
 ------------
-* Credits to [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
+Credits to [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
